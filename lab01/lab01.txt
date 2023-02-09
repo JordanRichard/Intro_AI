@@ -1,0 +1,100 @@
+CS 4795: Lab #01
+Date: Jan 19, 2023
+Student ID:	3606213
+Name:		Jordan Richard
+
+Answer 1(a): (optional)	- Installation issues on lab machine
+Answer 1(b): (optional)
+
+Answer 2(a): (optional)
+Answer 2(b): (optional)
+
+Answer 3:	120
+
+Answer 4(a):	0
+Answer 4(b):	15
+
+Answer 5(a):	[1, 3, 5, 7, 9]
+Answer 5(b):	[1, 4, 7, 10, 13]
+
+Answer 6(a):	55
+
+Answer 7(a): 	10
+Answer 7(b):	180
+
+Answer 8(a):	global n = 10
+		local(f) n = 15
+		global n = 10
+		local(g) n = 20
+		global n = 10
+
+Answer 8(b):	global n = 10
+		local(f) n = 15
+		global n =  10
+		local(g) n = 20
+		global n =  20
+
+Answer 9(a):	0 is prime
+		1 is prime
+		2 is prime
+		3 is prime
+		4 is not prime
+
+Answer 9(b):	True
+		False
+
+Answer 10:	
+
+Answer 11:	[[19 22]
+ 			[43 50]]
+			<class 'numpy.matrix'>
+
+
+Answer 12(a):	2 * 1 = 2
+		2 * 2 = 4
+		2 * 3 = 6
+		2 * 4 = 8
+		2 * 5 = 10
+		2 * 6 = 12
+		2 * 7 = 14
+		2 * 8 = 16
+		2 * 9 = 18
+
+Answer 12(b):	2 * 1 = 2
+		2 * 2 = 4
+		3 * 1 = 3
+		3 * 2 = 6
+		4 * 1 = 4
+		4 * 2 = 8
+
+
+Answer 13:	['This', 'is', 'right', 'justified']
+
+Answer 14(a):	3
+		4
+
+Answer 14(b):	HELLO
+Answer 14(c):	7
+Answer 14(d):	7
+
+Answer 15:	Vector([2, 4, 6])
+
+Answer 16(a):	1000.0
+Answer 16(b):	True
+Answer 16(c):	0.001
+Answer 16(d):	True
+Answer 16(e):	-1.4081
+Answer 16(f):	-1.41
+
+Answer 17(a):	1.0
+Answer 17(b):	2.718281828459045
+Answer 17(c):	7.3890560989306495
+Answer 17(d):	7.38905609893065
+Answer 17(e):	8.881784197001252e-16
+
+Answer 18:	[1, 2, 3]
+		[1, 3, 2]
+		[2, 1, 3]
+		[2, 3, 1]
+		[3, 2, 1]
+		[3, 1, 2]
